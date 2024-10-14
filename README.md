@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shodiyorbek&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shodiyorbek&theme=github_dark&show_icons=true)](https://github.com/shodiyorbek/) [![Jabborbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shodiyorbek&theme=github_dark&layout=compact)](https://wakatime.com/@imshodiyorbek)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shodiyorbek&theme=github_dark&show_icons=true)](https://github.com/shodiyorbek/) [![Shodiyorbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshodiyorbek&theme=github_dark&layout=compact)](https://wakatime.com/@imshodiyorbek)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />

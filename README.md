@@ -8,10 +8,10 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![Jabborbek's github stats](https://github-readme-stats.vercel.app/api?username=shodiyorbek&theme=github_dark&show_icons=true)](https://github.com/shodiyorbek/)
+[![Shodiyorbek's github stats](https://github-readme-stats.vercel.app/api?username=shodiyorbek&theme=github_dark&show_icons=true)](https://github.com/shodiyorbek/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jabborbek&theme=tokyonight_duo&hide_border=true)](https://github.com/Jabborbek/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shodiyorbek&theme=tokyonight_duo&hide_border=true)](https://github.com/shodiyorbek/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 

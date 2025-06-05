@@ -43,6 +43,6 @@ Learning
 
 Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jabborbek/)](https://www.linkedin.com/in/jabborbek/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shodiyorbek-tolqinov-804a67308/)](https://www.linkedin.com/in/jabborbek/](https://www.linkedin.com/in/shodiyorbek-tolqinov-804a67308/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imshodiyorbek@gmail.com)](mailto:imshodiyorbek@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/imshodiyorbek)](https://t.me/imshodiyorbek)
